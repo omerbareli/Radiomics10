@@ -1,4 +1,4 @@
-# Radiomics 10: Whole-Body Metastasis Detection
+omics 10: Whole-Body Metastasis Detection
 
 ## Overview
 This project establishes a generalized, whole-body framework for metastasis detection using multi-modal PET/CT imaging. By utilizing foundation models like MedSAM, the system performs comprehensive segmentation across the entire anatomy, enabling a holistic analysis that transcends the limitations of organ-specific models. The pipeline is designed to correlate whole-body imaging features with genetic mutations, providing a scalable and integrated diagnostic tool for oncology.
