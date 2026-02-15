@@ -1,0 +1,10 @@
+data/
+output/
+logs/
+venv/
+external/
+*.nii.gz
+*.nii
+*.dcm
+*.txt
+

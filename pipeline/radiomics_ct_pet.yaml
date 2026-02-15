@@ -1,0 +1,20 @@
+setting:
+  label: 1
+  binWidth: 25
+  interpolator: sitkBSpline
+  correctMask: true
+  force2D: false
+  normalize: false
+  removeOutliers: null
+
+imageType:
+  Original: {}
+
+featureClass:
+  firstorder: []
+  shape: []
+  glcm: []
+  glrlm: []
+  glszm: []
+  gldm: []
+  ngtdm: []
